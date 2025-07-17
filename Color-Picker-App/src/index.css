@@ -1,0 +1,13 @@
+body{
+  background-color: wheat;
+  text-align: center;
+  font-size: 3em;
+}
+
+.color-div{
+  border: none;
+  margin: 50px;
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
